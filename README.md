@@ -1,3 +1,4 @@
+![logo](https://github.com/harsh769/harsh769/blob/main/Your%20paragraph%20text.gif)
 <h1 align="center">Hi 👋, I'm Harsh Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
